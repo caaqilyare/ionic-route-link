@@ -1,0 +1,7 @@
+{
+  "name": "Frp 2021",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
